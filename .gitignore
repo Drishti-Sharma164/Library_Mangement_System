@@ -1,0 +1,12 @@
+
+# Compiled files
+*.exe
+*.o
+*.layout
+*.depend
+
+# Temporary files
+*.tmp
+
+# Personal library records
+data/*.txt
